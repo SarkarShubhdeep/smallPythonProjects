@@ -1,46 +1,5 @@
 
-# (starring s, s,and s)
-# NURSE: Thank goodness you're here, doctor. A patient was just
-# brought in with a badly bruised s and a ruptured
-# S. Unfortunately, Dr. Smith plans to operate s.
-# DOCTOR: We can't let him! Look at the way his s is shaking.
-# NURSE: Uh, oh, he's putting a mask over his s! Doctor,
-# stop him before he s somebody.
-# DOCTOR: Smith, you can't operate on this s! forbid it.
-# SMITH: How dare you say that to me. I'm your mentor. You're like
-# a s to me.
-#
-# DOCTOR: And you're like as to me, but I can't risk the
-# wrath of as to satisfy your ego. Look in the mirror.
-# Would you trust that s to remove a S nail?
 
-
-# Adjective:
-#
-# Adverb:
-#
-# Noun #1:
-#
-# Noun #2:
-#
-# Noun #3:
-#
-# Noun #4:
-#
-# Noun #5:
-#
-# Noun #6:
-#
-# Part of the Body #1:
-#
-# Part of the Body #2:
-# Person's Name #1:
-#
-# Person's Name #2:
-#
-# Person's Name #3:
-#
-# Verb Ending in S:
 
 print("👋 Welcome to Madlibs")
 print("Enter your word choices ")
